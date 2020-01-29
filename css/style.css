@@ -5,3 +5,8 @@ tml {
 *, * :after, *:before {
    box-sizing: inherit;
 }
+
+body{
+   background: #2C2141;
+   margin: 16px;
+}
